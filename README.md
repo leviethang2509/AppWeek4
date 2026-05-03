@@ -1,5 +1,5 @@
-# Báo cáo dự án AppWeek4 (demo:youtube.com/watch?v=DKaVlCUBSCk&feature=youtu.be)
-
+# Báo cáo dự án AppWeek4 
+demo:youtube.com/watch?v=DKaVlCUBSCk&feature=youtu.be
 ## 1. Giới thiệu dự án
 
 AppWeek4 là một ứng dụng Flutter dùng để thực hành các kiến thức cơ bản về xây dựng giao diện, điều hướng màn hình, hiển thị dữ liệu, lưu trữ cục bộ và xử lý bất đồng bộ.
